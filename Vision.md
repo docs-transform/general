@@ -1,9 +1,9 @@
 Vision
 
 
-A digital experience platform that can serve a One Microsoft approach to Microsoft field and partners allowing us to create clarity and consistency of experience. It will enable us to generate energy and inspire optimism in our value proposition and help focus on our customer needs.
+A digital experience platform that can serve a single approach that allowing us to create clarity and consistency of experience for our customers. It will enable us to generate energy and inspire optimism in our value proposition and help focus on our customer needs.
 
-Digital experience platform is a story telling platform
+# H1 Digital experience platform is a story telling platform
 Microsoft’s mission is to empower every person and every organization on the planet to achieve more. With the right tools, anyone can do anything. Our mission is to create a digital experience that will deliver on our brand promise, differentiate Microsoft from our competition, show product truth that matters to our customers, support physical experiences and drive business growth. We focus bringing those principals to life with a Modern Workplace digital experience for Microsoft sellers and partners that will translate to value to every customer.
 
 
