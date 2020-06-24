@@ -1,0 +1,21 @@
+{
+  "items": [
+	{
+      "href": "Relative path of the .md file.Do not add .md to the end",
+      "toc_title": "Display Title on the menu"
+    },
+    {
+      "href": "CDX instructions",
+      "toc_title": "CDX Instructions"
+    },
+	{
+      "href": "CIE Technical Guide",
+      "toc_title": "CIE Technical Guide"
+    },
+	{
+      "href": "Customer Immersion Experiences",
+      "toc_title": "Customer Immersion Experiences"
+    }
+	
+  ]
+}
